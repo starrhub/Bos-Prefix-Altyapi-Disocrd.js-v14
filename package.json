@@ -1,0 +1,26 @@
+{
+  "name": "bot-prefix-altyapi",
+  "version": "1.0.0",
+  "description": "Boş Prefix Altyapı - Discord.js v14",
+  "main": "starr.js",
+  "scripts": {
+    "start": "node starr.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "prefix"
+  ],
+  "author": "Starr",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/starrhub/Bos-Prefix-Altyapi-Disocrd.js-v14"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}

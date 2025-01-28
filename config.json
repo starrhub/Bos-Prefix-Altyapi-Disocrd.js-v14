@@ -1,0 +1,6 @@
+{
+    "token": "BOT_TOKEN",
+    "prefix": "BOT_PREFIX",
+    "clientId": "BOT_ID",
+    "owner": "OWNER_ID"
+}
